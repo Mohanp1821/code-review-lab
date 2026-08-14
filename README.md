@@ -13,4 +13,4 @@ feature/twishashukla26-edit
 ** Shivam Kore (@shivam-core)
 Mohan was here
 
-* Mohan P1821 (@mohanp1821)
+* Mohan P1821 (@mohanp1821) - Contributor
