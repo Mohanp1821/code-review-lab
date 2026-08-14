@@ -9,8 +9,8 @@ Contributor
 
 * Navya Chaudhary (@navyaachy)
 feature/twishashukla26-edit
-* \- Twisha Shukla, she add name here for assignment purpose.
+* Twisha Shukla, she add name here for assignment purpose.
 ** Shivam Kore (@shivam-core)
 Mohan was here
 
-* Mohan P1821 (@Mohanp1821)
+* Mohan P1821 (@mohanp1821)
